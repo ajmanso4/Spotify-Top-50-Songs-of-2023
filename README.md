@@ -9,8 +9,8 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
 ## Dataset and Source:
 Dataset: Spotify Most Streamed Songs
 Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-all-time
-      <br>*Data obtained from Kaggle (from link above).
-      <br>*Dataset not included in this repository.
+<br>      * Data obtained from Kaggle (from link above).
+<br>      * Dataset not included in this repository.
 
 
 ## Research Questions:
