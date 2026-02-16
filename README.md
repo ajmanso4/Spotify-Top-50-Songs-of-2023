@@ -9,16 +9,17 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
 ## Dataset and Source:
 Dataset: Spotify Most Streamed Songs
 Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-all-time
-<br>      * Data obtained from Kaggle (from link above).
-<br>      * Dataset not included in this repository.
+* Data obtained from Kaggle (from link above).
+* Dataset not included in this repository.
 
 
 ## Research Questions:
 1. Of the top 50 songs streamed in 2023 on spotify, how many songs does each artist have and what percentage of the top 50 do they make up?
-2. Within the top 50, do artists with more entries account for more listening volume?
-3. Which artists have the highest streams per song? One-hit-wonder metric!
+2. Which artists have the highest streams per song? One-hit-wonder metric!
+3. Within the top 50, do artists with more entries account for more listening volume?
 
 ## Presentation:
+#### 1. Of the top 50 songs streamed in 2023 on spotify, how many songs does each artist have and what percentage of the top 50 do they make up?
 <img width="1073" height="786" alt="Screenshot 2026-02-16 at 17 15 10" src="https://github.com/user-attachments/assets/8ccaf74e-8576-4b88-afcd-cad0d76f8d3c" />
 ^^ As we can see here, Ed Sheeran is the artist with the most songs in the top 50 of Spotify 2023, with 4 songs. In second place lies Post Malone and The Weeknd, with 3 songs each. 
 
@@ -36,9 +37,22 @@ Some basic statistics of the dataset:
 
 ^^ As we can see here, the songs "Shape of You" by Ed Sheeran and B"linding Lights" by The Weeknd are clear outliers when it comes to total streams.
 
-Mean: 2,357,434,145
-Standard deviation: 404,438,639
-Minimum: 1,930,339,344
-Maximum: 3,783,983,806
+* Mean: 2,357,434,145
+* Standard deviation: 404,438,639
+* Minimum: 1,930,339,344
+* Maximum: 3,783,983,806
+
+<br><br>
+
+#### 2. Which artists have the highest streams per song? One-hit-wonder metric!
+
+
+
+<br><br>
+
+#### 3. Within the top 50, do artists with more entries account for more listening volume?
+<img width="811" height="601" alt="Screenshot 2026-02-16 at 22 06 47" src="https://github.com/user-attachments/assets/de04cf3e-a86d-46b7-96a4-0b5db428f8bb" />
+
+^^ This visualization confirms the relationship between the number of songs an artist has in Spotify's top 50 and their total amount of streams. This is another way to visualize the significant gap between Ed Sheeran, The Weeknd and Post Malone compared to the other artists.
 
 
