@@ -19,7 +19,5 @@ Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-
 3. Which artists have the highest streams per song? One-hit-wonder metric!
 
 ## Presentation
-1. Overview of data set
-2. Preprocessing
-3. Basic Descriptive Statistics
-4. Analysis
+
+
