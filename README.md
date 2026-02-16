@@ -23,8 +23,8 @@ Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-
 As we can see here, Ed Sheeran is the artist with the most songs in the top 50 of Spotify 2023, with 4 songs. In second place lies Post Malone and The Weeknd, with 3 songs each. 
 
 We can see the top 25 and the top 10 as we zoom in closer:
-<img width="420" height="398" alt="Screenshot 2026-02-16 at 17 19 29" src="https://github.com/user-attachments/assets/7aab0f37-00fb-4ed7-ae7c-e6487828f848" />
-<img width="420" height="236" alt="Screenshot 2026-02-16 at 17 19 42" src="https://github.com/user-attachments/assets/46b4b48c-b17d-4687-a7f4-4314cde192ab" />
+<img width="886" height="800" alt="Screenshot 2026-02-16 at 18 03 58" src="https://github.com/user-attachments/assets/a6d73539-b50b-48d8-b252-bac546a56c9e" />
+<img width="893" height="477" alt="Screenshot 2026-02-16 at 18 04 05" src="https://github.com/user-attachments/assets/390f78b4-8ddd-418b-a0f7-ac8e300fa108" />
 
 
 
