@@ -3,8 +3,10 @@ Data analysis of Spotify Top-50 streaming dataset using Python (pandas, matplotl
 
 # The pretty visual
 
+
 # Table of Contents:
 (paste quicklinkes here]
+
 
 # Dataset and Source
 Dataset: Spotify Most Streamed Songs
@@ -18,7 +20,7 @@ Source: https://www.kaggle.com/datasets/meeratif/spotify-most-streamed-songs-of-
 2. Within the top 50, do artists with more entries account for more listening volume?
 3. Which artists have the highest streams per song? One-hit-wonder metric!
 
-# Presentation
+## Presentation
 1. Overview of data set
 2. Preprocessing
 3. Basic Descriptive Statistics
