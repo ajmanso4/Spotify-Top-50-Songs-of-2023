@@ -44,15 +44,13 @@ We can see the top 25 and the top 10 as we zoom in closer:
 <br>
 
 Some basic statistics of the dataset:
-
-<img width="526" height="635" alt="Screenshot 2026-02-16 at 21 57 45" src="https://github.com/user-attachments/assets/0bee6182-4ec1-4bb0-b695-be256e2a2915" />
-
-^^ As we can see here, the songs "Shape of You" by Ed Sheeran and B"linding Lights" by The Weeknd are clear outliers when it comes to total streams.
-
 * Mean: 2,357,434,145
 * Standard deviation: 404,438,639
 * Minimum: 1,930,339,344
 * Maximum: 3,783,983,806
+<img width="526" height="635" alt="Screenshot 2026-02-16 at 21 57 45" src="https://github.com/user-attachments/assets/0bee6182-4ec1-4bb0-b695-be256e2a2915" />
+
+^^ As we can see here, the songs "Shape of You" by Ed Sheeran and B"linding Lights" by The Weeknd are clear outliers when it comes to total streams.
 
 <br>
 <br>
